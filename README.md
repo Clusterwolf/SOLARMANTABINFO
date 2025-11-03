@@ -28,7 +28,7 @@ Funktioniert auf allen SofarCloud-Gerätedetailseiten (/deviceDetail/<SERIAL>).
 Tampermonkey-Erweiterung installieren (falls noch nicht vorhanden).
 Neues Userscript hinzufügen.
 Den gesamten Skriptinhalt aus [SOLARMANTABINFO.js ] einfügen und speichern.
-Seite https://eu.sofarcloud.com/deviceDetail/... öffnen – das Script startet automatisch.
+Seite (https://globalpro.solarmanpv.com/)/... öffnen – das Script startet automatisch.
 ⚙️ Technische Details
 Intervall: 250 ms
 Farberkennung: basiert auf SVG-Icons oder RGB-Werten
@@ -71,7 +71,7 @@ Works on all SofarCloud device detail pages (/deviceDetail/<SERIAL>).
 Install the Tampermonkey extension (if not already installed).
 Add new userscript.
 Paste the entire script content from [SOLARMANTABINFO.js ] and save.
-Open the page https://eu.sofarcloud.com/deviceDetail/... – the script will start automatically.
+Open the page (https://globalpro.solarmanpv.com/) – the script will start automatically.
 ⚙️ Technical details
 Interval: 250 ms
 Colour detection: based on SVG icons or RGB values
