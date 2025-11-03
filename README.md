@@ -1,4 +1,4 @@
-ampermonkey-Userscript:
+Tampermonkey-Userscript:
 📝 Beschreibung
 Dieses Tampermonkey-Skript erweitert die SofarCloud-Weboberfläche mit einer cleveren Statusanzeige im Browser-Tab. Es kombiniert visuelle Statussymbole, eine Ladeanimation und Benachrichtigungen, um Firmware-Upgrades übersichtlicher zu überwachen.
 
